@@ -1,0 +1,52 @@
+{
+    "cards": [
+      {
+        "title": "YouTube",
+        "description": "Disfruta de videos y música YouTube.",
+        "icon": "fa-youtube",
+        "link": "https://youtube.com"
+      },
+      {
+        "title": "Instagram",
+        "description": "Comparte tus momentos favoritos con Instagram.",
+        "icon": "fa-instagram",
+        "link": "https://instagram.com"
+      },
+      {
+        "title": "Facebook",
+        "description": "Conéctate con personas de todo el mundo en Facebook.",
+        "icon": "fa-facebook",
+        "link": "https://facebook.com"
+      },
+      {
+        "title": "TikTok",
+        "description": "Descubre y crea videos cortos emocionantes en TikTok.",
+        "icon": "fa-tiktok",
+        "link": "https://tiktok.com"
+      },
+      {
+        "title": "Twitter",
+        "description": "Conéctate y sigue contenido con Twitter.",
+        "icon": "fa-twitter",
+        "link": "https://twitter.com"
+      },
+      {
+        "title": "Spotify",
+        "description": "Escucha tu música favorita con Spotify.",
+        "icon": "fa-spotify",
+        "link": "https://spotify.com"
+      },
+      {
+        "title": "Snapchat",
+        "description": "Comparte momentos divertidos con Snapchat.",
+        "icon": "fa-snapchat",
+        "link": "https://snapchat.com"
+      },
+      {
+        "title": "Discord",
+        "description": "Únete a comunidades increíbles en Discord.",
+        "icon": "fa-discord",
+        "link": "https://discord.com"
+      }
+    ]
+  }

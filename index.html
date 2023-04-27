@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MultiDownloader</title>
+
+    <!-- Enlace al archivo CSS de Bootstrap desde un CDN -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+    />
+
+    <!-- Enlace al archivo CSS de font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+
+    <!-- Enlace al archivo CSS personalizado -->
+    <link rel="stylesheet" href="./assets/styles.css" />
+
+    <!-- Enlace al archivo JS de Bootstrap desde un CDN -->
+    <script src="https://unpkg.com/bootstrap@5.0.2/dist/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <!-- NavBar -->
+    <div id="navbar"></div>
+
+    <!-- Cards -->
+    <div class="container mt-5">
+      <div class="row row-cols-1 row-cols-md-4 g-5" id="card-container"></div>
+    </div>
+
+    <footer class="text-center text-lg-start">
+      <div class="text-center">
+        ©2023 Copyright - <strong>MultiDownloader</strong>
+      </div>
+    </footer>
+
+    <script async src="assets/navscript.js"></script>
+    <script async src="assets/script.js"></script>
+  </body>
+</html>
